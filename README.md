@@ -1,2 +1,3 @@
-# ntfy-docker
+# Ntfy
+
 Notifications
